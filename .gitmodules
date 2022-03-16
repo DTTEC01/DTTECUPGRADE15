@@ -1,0 +1,4 @@
+[submodule "Consultoria-y-desarrollo-Quemari/dttec"]
+	path = Consultoria-y-desarrollo-Quemari/dttec
+	url = git@github.com:Consultoria-y-desarrollo-Quemari/dttec.git
+	branch = main
