@@ -1,4 +1,4 @@
-[submodule "Consultoria-y-desarrollo-Quemari/dttec"]
-	path = Consultoria-y-desarrollo-Quemari/dttec
-	url = git@github.com:Consultoria-y-desarrollo-Quemari/dttec.git
-	branch = main
+[submodule "ozentella/addons_dttec15"]
+	path = ozentella/addons_dttec15
+	url = git@github.com:ozentella/addons_dttec15.git
+	branch = Test
