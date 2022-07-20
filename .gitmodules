@@ -2,3 +2,8 @@
 	path = dttec15
 	url = https://github.com/ozentella/addons_dttec15.git
 	branch = Test
+
+[submodule "ozentella/addons_dttec15"]
+	path = ozentella/addons_dttec15
+	url = git@github.com:ozentella/addons_dttec15.git
+	branch = Test
